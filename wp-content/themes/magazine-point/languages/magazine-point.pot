@@ -1,0 +1,1387 @@
+# Copyright (C) 2018 Axle Themes
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magazine Point 2.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-02 08:12:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Axle Themes <info@axlethemes.com>\n"
+"Language-Team: \n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:37
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:94
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:96
+msgid "Add widgets here to appear in your Primary Sidebar."
+msgstr ""
+
+#: functions.php:103
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: functions.php:105
+msgid "Add widgets here to appear in your Secondary Sidebar."
+msgstr ""
+
+#: functions.php:112
+msgid "Header Right Widget Area"
+msgstr ""
+
+#: functions.php:114
+msgid ""
+"Add widgets here to appear in your Header Right Widget Area. Especially "
+"used for image or ad widget."
+msgstr ""
+
+#: functions.php:121
+msgid "Front Page Widget Area"
+msgstr ""
+
+#: functions.php:123
+msgid "Add widgets here to appear in your Front Page."
+msgstr ""
+
+#: functions.php:130 functions.php:138 functions.php:146 functions.php:154
+msgid "Footer %d"
+msgstr ""
+
+#: includes/core.php:62
+msgid "Breaking News"
+msgstr ""
+
+#: includes/core.php:81
+msgid "Copyright &copy; All rights reserved."
+msgstr ""
+
+#: includes/customizer/control.php:169 includes/widgets.php:606
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: includes/customizer/option.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: includes/customizer/option.php:22
+msgid "Header Options"
+msgstr ""
+
+#: includes/customizer/option.php:39
+msgid "Show Site Title"
+msgstr ""
+
+#: includes/customizer/option.php:56
+msgid "Show Tagline"
+msgstr ""
+
+#: includes/customizer/option.php:73
+msgid "Enable Social Icons"
+msgstr ""
+
+#: includes/customizer/option.php:89
+msgid "Enable Search Form"
+msgstr ""
+
+#: includes/customizer/option.php:99
+msgid "Breaking News Options"
+msgstr ""
+
+#: includes/customizer/option.php:116
+msgid "Show Breaking News"
+msgstr ""
+
+#: includes/customizer/option.php:132
+msgid "Title"
+msgstr ""
+
+#: includes/customizer/option.php:151
+msgid "Select Category"
+msgstr ""
+
+#: includes/customizer/option.php:170
+msgid "No of Posts"
+msgstr ""
+
+#: includes/customizer/option.php:182
+msgid "Featured News"
+msgstr ""
+
+#: includes/customizer/option.php:199
+msgid "Display Featured News"
+msgstr ""
+
+#: includes/customizer/option.php:217
+msgid "Choose Category"
+msgstr ""
+
+#: includes/customizer/option.php:229
+msgid "Layout Options"
+msgstr ""
+
+#: includes/customizer/option.php:246
+msgid "Site Layout"
+msgstr ""
+
+#: includes/customizer/option.php:263
+msgid "Global Layout"
+msgstr ""
+
+#: includes/customizer/option.php:280
+msgid "Archive Layout"
+msgstr ""
+
+#: includes/customizer/option.php:298
+msgid "Image in Archive"
+msgstr ""
+
+#: includes/customizer/option.php:316
+msgid "Image Alignment in Archive"
+msgstr ""
+
+#: includes/customizer/option.php:328
+msgid "Single Post Options"
+msgstr ""
+
+#: includes/customizer/option.php:346 template-parts/related.php:44
+msgid "Related Posts"
+msgstr ""
+
+#: includes/customizer/option.php:364
+msgid "Show Related Posts"
+msgstr ""
+
+#: includes/customizer/option.php:374
+msgid "Footer Options"
+msgstr ""
+
+#: includes/customizer/option.php:391
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/customizer/option.php:401
+msgid "Blog Options"
+msgstr ""
+
+#: includes/customizer/option.php:418
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/customizer/option.php:419
+msgid "in words"
+msgstr ""
+
+#: includes/customizer/option.php:437
+msgid "Exclude Categories in Blog"
+msgstr ""
+
+#: includes/customizer/option.php:438
+msgid ""
+"Enter category ID to exclude in Blog Page. Separate with comma if more than "
+"one"
+msgstr ""
+
+#: includes/customizer/option.php:448
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: includes/customizer/option.php:465
+msgid "Breadcrumb Type"
+msgstr ""
+
+#: includes/customizer.php:30
+msgid "Magazine Point Pro"
+msgstr ""
+
+#: includes/customizer.php:31
+msgid "Buy Pro"
+msgstr ""
+
+#: includes/customizer.php:51
+msgid ""
+"Note: Background Color is applicable only if Boxed Layout used and no image "
+"is set as Background Image."
+msgstr ""
+
+#: includes/extras.php:22
+msgid "Search&hellip;"
+msgstr ""
+
+#: includes/helpers.php:19
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: includes/helpers.php:20
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: includes/helpers.php:21
+msgid "Three Columns"
+msgstr ""
+
+#: includes/helpers.php:22
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/helpers.php:40
+msgid "Fluid"
+msgstr ""
+
+#: includes/helpers.php:41
+msgid "Boxed"
+msgstr ""
+
+#: includes/helpers.php:59
+msgid "Disabled"
+msgstr ""
+
+#: includes/helpers.php:60
+msgid "Enabled"
+msgstr ""
+
+#: includes/helpers.php:79
+msgid "Full Post"
+msgstr ""
+
+#: includes/helpers.php:80
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/helpers.php:106
+msgid "No Image"
+msgstr ""
+
+#: includes/helpers.php:109
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/helpers.php:110
+msgid "Medium"
+msgstr ""
+
+#: includes/helpers.php:111
+msgid "Large"
+msgstr ""
+
+#: includes/helpers.php:112
+msgid "Full (original)"
+msgstr ""
+
+#: includes/module/about.php:9 includes/module/about.php:10
+msgid "About Magazine Point"
+msgstr ""
+
+#: includes/module/about.php:13
+#. translators: theme version
+msgid "Welcome to %s - v"
+msgstr ""
+
+#: includes/module/about.php:16
+#. translators: 1: theme name
+msgid ""
+"%1$s is now installed and ready to use! We want to make sure you have the "
+"best experience using %1$s and that is why we gathered here all the "
+"necessary information for you. We hope you will enjoy using %1$s."
+msgstr ""
+
+#: includes/module/about.php:21
+msgid "Theme Details"
+msgstr ""
+
+#: includes/module/about.php:25 includes/module/about.php:90
+msgid "View Demo"
+msgstr ""
+
+#: includes/module/about.php:29 includes/module/about.php:54
+#: includes/module/about.php:153
+msgid "View Documentation"
+msgstr ""
+
+#: includes/module/about.php:34
+msgid "Rate This Theme"
+msgstr ""
+
+#: includes/module/about.php:41
+msgid "Getting Started"
+msgstr ""
+
+#: includes/module/about.php:42 includes/module/about.php:61
+msgid "Recommended Actions"
+msgstr ""
+
+#: includes/module/about.php:43 includes/module/about.php:72
+msgid "Demo Content"
+msgstr ""
+
+#: includes/module/about.php:44
+msgid "Useful Plugins"
+msgstr ""
+
+#: includes/module/about.php:45
+msgid "Support"
+msgstr ""
+
+#: includes/module/about.php:46 includes/module/about.php:200
+#: vendors/about/class-about.php:653
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/module/about.php:52 includes/module/about.php:150
+msgid "Theme Documentation"
+msgstr ""
+
+#: includes/module/about.php:53
+msgid ""
+"Even if you are a long-time WordPress user, we still believe you should "
+"give our documentation a very quick read."
+msgstr ""
+
+#: includes/module/about.php:62
+msgid ""
+"We have compiled a list of steps for you, to take make sure the experience "
+"you will have using one of our products is very easy to follow."
+msgstr ""
+
+#: includes/module/about.php:63
+msgid "Check Recommended Actions"
+msgstr ""
+
+#: includes/module/about.php:70 includes/module/demo.php:17
+msgid "Theme Demo Content"
+msgstr ""
+
+#: includes/module/about.php:71
+msgid ""
+"You can easily import demo content as we have bundled demo content file "
+"within the theme folder. Importer plugin is needed."
+msgstr ""
+
+#: includes/module/about.php:79
+msgid "Customize Everything"
+msgstr ""
+
+#: includes/module/about.php:80
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: includes/module/about.php:81
+msgid "Go to Customizer"
+msgstr ""
+
+#: includes/module/about.php:88
+msgid "View Theme Demo"
+msgstr ""
+
+#: includes/module/about.php:89
+msgid "To get quick glance of the theme, please visit theme demo."
+msgstr ""
+
+#: includes/module/about.php:97 includes/module/about.php:187
+msgid "Child Theme"
+msgstr ""
+
+#: includes/module/about.php:98 includes/module/about.php:189
+msgid ""
+"If you want to customize theme file, you should use child theme rather than "
+"modifying theme file itself."
+msgstr ""
+
+#: includes/module/about.php:99 includes/module/about.php:190
+msgid "About Child Theme"
+msgstr ""
+
+#: includes/module/about.php:111
+msgid "Setting Static Front Page"
+msgstr ""
+
+#: includes/module/about.php:112
+msgid ""
+"Select A static page then Front page and Posts page to display front page "
+"specific sections. Note: Static page will be set automatically when you "
+"import demo content."
+msgstr ""
+
+#: includes/module/about.php:115
+msgid "Static Front Page"
+msgstr ""
+
+#: includes/module/about.php:118 includes/module/about.php:129
+#: includes/tgm.php:27
+msgid "One Click Demo Import"
+msgstr ""
+
+#: includes/module/about.php:119
+msgid "Please install the One Click Demo Import plugin to import the demo content."
+msgstr ""
+
+#: includes/module/about.php:129
+msgid ""
+"Demo content files are bundled within this theme. %1$s plugin is needed to "
+"import demo content. Please make sure plugin is installed and activated. If "
+"you have not installed the plugin, please go to Installed Plugins page "
+"under Appearance. After plugin activation, go to Import Demo Data menu "
+"under Appearance."
+msgstr ""
+
+#: includes/module/about.php:134
+msgid "This theme supports some helpful WordPress plugins to enhance your website."
+msgstr ""
+
+#: includes/module/about.php:135
+msgid "Useful Plugins List:"
+msgstr ""
+
+#: includes/module/about.php:141 includes/module/about.php:144
+msgid "Contact Support"
+msgstr ""
+
+#: includes/module/about.php:143
+msgid ""
+"Got theme support question or found bug? Best place to ask your query is "
+"our dedicated Support forum."
+msgstr ""
+
+#: includes/module/about.php:152
+msgid ""
+"Please check our theme documentation for detailed information on how to "
+"setup and use theme."
+msgstr ""
+
+#: includes/module/about.php:159
+msgid "Pro Version"
+msgstr ""
+
+#: includes/module/about.php:162 includes/module/about.php:199
+msgid ""
+"Upgrade to pro version for more exciting features and additional theme "
+"options."
+msgstr ""
+
+#: includes/module/about.php:163
+msgid "View Pro Version"
+msgstr ""
+
+#: includes/module/about.php:169
+msgid "Pre-sale Queries"
+msgstr ""
+
+#: includes/module/about.php:171
+msgid "Have any query before purchase, you are more than welcome to ask."
+msgstr ""
+
+#: includes/module/about.php:172
+msgid "Pre-sale question?"
+msgstr ""
+
+#: includes/module/about.php:178 includes/module/about.php:181
+msgid "Customization Request"
+msgstr ""
+
+#: includes/module/about.php:180
+msgid "Needed any customization for the theme, you can request from here."
+msgstr ""
+
+#: includes/module/demo.php:23
+msgid ""
+"NOTE: In demo import, category selection could be omitted in old "
+"(non-fresh) WordPress setup. After import is complete, please go to Widgets "
+"admin page under Appearance menu and select the appropriate category in the "
+"widgets. Also, if images are not displayed properly, please use Regenerate "
+"Thumbnails plugin to regenerate new thumbnails of the images."
+msgstr ""
+
+#: includes/module/metabox.php:22
+msgid "Theme Settings"
+msgstr ""
+
+#: includes/module/metabox.php:57
+msgid "Choose Layout"
+msgstr ""
+
+#: includes/template-functions.php:142 vendors/breadcrumbs/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: includes/template-functions.php:204
+msgid "Default"
+msgstr ""
+
+#: includes/template-functions.php:266
+msgid "Welcome to Magazine Point"
+msgstr ""
+
+#: includes/template-functions.php:268
+msgid ""
+"You are seeing this because there is no any widget in Front Page Widget "
+"Area. Go to Appearance->Widgets in admin panel to add widgets. This widget "
+"will be replaced when you start adding widgets in that widget area."
+msgstr ""
+
+#: includes/template-tags.php:48 includes/template-tags.php:65
+#. Translators: used between list items, there is a space after the comma.
+msgid ", "
+msgstr ""
+
+#: includes/template-tags.php:73
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/template-tags.php:73
+msgid "1 Comment"
+msgstr ""
+
+#: includes/template-tags.php:73
+msgid "% Comments"
+msgstr ""
+
+#: includes/template-tags.php:77 template-parts/content-page.php:36
+msgid "Edit"
+msgstr ""
+
+#: includes/tgm.php:22
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/tgm.php:32
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: includes/theme-hooks.php:16
+msgid "Skip to content"
+msgstr ""
+
+#: includes/theme-hooks.php:207
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: includes/theme-hooks.php:207
+msgid "Powered by %s"
+msgstr ""
+
+#: includes/theme-hooks.php:209
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: includes/widgets.php:59
+msgid "MP: Social"
+msgstr ""
+
+#: includes/widgets.php:63
+msgid "Social Icons Widget"
+msgstr ""
+
+#: includes/widgets.php:69 includes/widgets.php:143 includes/widgets.php:295
+#: includes/widgets.php:471 includes/widgets.php:599
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets.php:133
+msgid "MP: Recent Posts Extended"
+msgstr ""
+
+#: includes/widgets.php:137
+msgid "Recent posts extended widget"
+msgstr ""
+
+#: includes/widgets.php:148 includes/widgets.php:300 includes/widgets.php:476
+msgid "Select Category:"
+msgstr ""
+
+#: includes/widgets.php:150 includes/widgets.php:302 includes/widgets.php:478
+msgid "All Categories"
+msgstr ""
+
+#: includes/widgets.php:153 includes/widgets.php:305 includes/widgets.php:481
+msgid "Number of Posts:"
+msgstr ""
+
+#: includes/widgets.php:160
+msgid "Image Width:"
+msgstr ""
+
+#: includes/widgets.php:162
+msgid "px"
+msgstr ""
+
+#: includes/widgets.php:168
+msgid "Disable Thumbnail"
+msgstr ""
+
+#: includes/widgets.php:173
+msgid "Disable Date"
+msgstr ""
+
+#: includes/widgets.php:285
+msgid "MP: News Block"
+msgstr ""
+
+#: includes/widgets.php:289
+msgid "News block Widget"
+msgstr ""
+
+#: includes/widgets.php:312
+msgid "Select Column:"
+msgstr ""
+
+#: includes/widgets.php:318 includes/widgets.php:488 includes/widgets.php:627
+msgid "Select Image:"
+msgstr ""
+
+#: includes/widgets.php:324 includes/widgets.php:619
+msgid "Excerpt Length:"
+msgstr ""
+
+#: includes/widgets.php:331
+msgid "Select News Layout:"
+msgstr ""
+
+#: includes/widgets.php:461
+msgid "MP: Posts Slider"
+msgstr ""
+
+#: includes/widgets.php:465
+msgid "Posts Slider Widget"
+msgstr ""
+
+#: includes/widgets.php:589
+msgid "MP: Featured Page"
+msgstr ""
+
+#: includes/widgets.php:593
+msgid "Displays single featured Page"
+msgstr ""
+
+#: includes/widgets.php:604
+msgid "Select Page:"
+msgstr ""
+
+#: includes/widgets.php:610
+msgid "Show Content:"
+msgstr ""
+
+#: includes/widgets.php:614
+msgid "Short"
+msgstr ""
+
+#: includes/widgets.php:615
+msgid "Full"
+msgstr ""
+
+#: includes/widgets.php:620
+msgid "Applies when Short is selected in Show Content."
+msgstr ""
+
+#: includes/widgets.php:633
+msgid "Select Image Alignment:"
+msgstr ""
+
+#: includes/widgets.php:690
+msgid "Read more"
+msgstr ""
+
+#: includes/widgets.php:730
+msgid "MP: Tabbed"
+msgstr ""
+
+#: includes/widgets.php:734
+msgid "Tabbed Widget"
+msgstr ""
+
+#: includes/widgets.php:739
+msgid "POPULAR"
+msgstr ""
+
+#: includes/widgets.php:743 includes/widgets.php:759
+msgid "No of Posts:"
+msgstr ""
+
+#: includes/widgets.php:750 includes/widgets.php:766 includes/widgets.php:782
+msgid "Show Thumbnail"
+msgstr ""
+
+#: includes/widgets.php:755
+msgid "RECENT"
+msgstr ""
+
+#: includes/widgets.php:771
+msgid "COMMENT"
+msgstr ""
+
+#: includes/widgets.php:775
+msgid "No of Comments:"
+msgstr ""
+
+#: includes/widgets.php:927 includes/widgets.php:930
+msgid "on"
+msgstr ""
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:29 template-parts/content-single.php:35
+#: template-parts/content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:43
+#. translators: %s: Name of current post.
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: vendors/about/class-about.php:165
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr ""
+
+#: vendors/about/class-about.php:165
+msgid "Get started with %s"
+msgstr ""
+
+#: vendors/about/class-about.php:165
+msgid "Dismiss"
+msgstr ""
+
+#: vendors/about/class-about.php:593
+#: vendors/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: vendors/about/class-about.php:597
+#: vendors/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: vendors/about/class-about.php:601
+msgid "Deactivate"
+msgstr ""
+
+#: vendors/about/class-about.php:688
+msgid "Great, all recommended plugins are intalled and active."
+msgstr ""
+
+#: vendors/about/class-about.php:696
+msgid "Manage Plugins"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:270
+#. Translators: %s is the search query.
+msgid "Search results for: %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:272
+#. Translators: %s is the page number.
+msgid "Page %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:274
+#. Translators: %s is the page number.
+msgid "Comment Page %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:276
+#. Translators: Minute archive title. %s is the minute time format.
+msgid "Minute %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:278
+#. Translators: Weekly archive title. %s is the week date format.
+msgid "Week %s"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:386
+#: vendors/tgm/class-tgm-plugin-activation.php:827
+#: vendors/tgm/class-tgm-plugin-activation.php:2533
+#: vendors/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:387
+#: vendors/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:388
+#: vendors/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:934
+#: vendors/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3509
+#: vendors/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3509
+#: vendors/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: vendors/widget-helper/class-widget-helper.php:108
+msgid "Upload"
+msgstr ""
+
+#: vendors/widget-helper/class-widget-helper.php:108
+msgid "Select Image"
+msgstr ""
+
+#: vendors/widget-helper/class-widget-helper.php:108
+msgid "Choose Image"
+msgstr ""
+
+#: vendors/widget-helper/class-widget-helper.php:110
+msgid "Remove"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Magazine Point"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://axlethemes.com/wordpress-themes/magazine-point/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Magazine Point is a WordPress magazine theme which is carefully crafted "
+"with high quality code, eyecatching design and satisfying features. With "
+"Magazine Point you can build any kind of news, magazine, blog website with "
+"in minutes and still manage your site to look beautiful like you always "
+"wanted. With easy to use features and easily customizable code we won't be "
+"wrong if we call this theme one of the best magazine themes. Other than its "
+"quality craftmanship the theme uses the best clean SEO practices and is "
+"optimized to the highest limit, so it is fast too. Also, we tend to provide "
+"best and helpful support if you have any problem with the theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Axle Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://axlethemes.com/"
+msgstr ""
+
+#: comments.php:33
+#. translators: %s: post title
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:37
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/extras.php:21 includes/extras.php:22
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: includes/helpers.php:154
+msgctxt "alignment"
+msgid "None"
+msgstr ""
+
+#: includes/helpers.php:155
+msgctxt "alignment"
+msgid "Left"
+msgstr ""
+
+#: includes/helpers.php:156
+msgctxt "alignment"
+msgid "Center"
+msgstr ""
+
+#: includes/helpers.php:157
+msgctxt "alignment"
+msgid "Right"
+msgstr ""
+
+#: includes/template-functions.php:86
+#. translators: If there are characters in your language that are not supported
+#. by Magra, translate this to 'off'. Do not translate into your own language.
+msgctxt "Magra font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/template-functions.php:91
+#. translators: If there are characters in your language that are not supported
+#. by Gudea, translate this to 'off'. Do not translate into your own language.
+msgctxt "Gudea font: on or off"
+msgid "on"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:788
+#: vendors/breadcrumbs/breadcrumbs.php:817
+#: vendors/breadcrumbs/breadcrumbs.php:844
+#: vendors/breadcrumbs/breadcrumbs.php:871
+#: vendors/breadcrumbs/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:789
+#: vendors/breadcrumbs/breadcrumbs.php:845
+#: vendors/breadcrumbs/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:790
+#: vendors/breadcrumbs/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:1121
+#: vendors/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

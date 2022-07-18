@@ -1,0 +1,29 @@
+div#contacts_form_meta_box.postbox {
+    width: 60%;
+}
+
+div.form2bc{
+	display:flex;
+}
+
+div.form3bc{
+	display:flex;
+}
+
+div.form2bc input {
+    width: 350px;
+    margin-right: 30px;
+}
+
+div.form3bc input {
+    width: 230px;
+    margin-right: 20px;
+}
+
+#addressbc {
+    width: 730px;
+}
+
+#notesbc {
+    width: 730px;
+}
